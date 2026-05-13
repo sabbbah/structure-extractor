@@ -223,4 +223,3 @@ If this tool helps you, please consider:
 
 ---
 **Made with ❤️ for developers who love clean project documentation**
-```
