@@ -1,6 +1,3 @@
-## 📖 README.md for Project Structure Extractor
-
-```markdown
 # 📂 Project Structure Extractor
 
 A Python tool that scans any project directory and generates a clean, organized view of its folder structure with all files grouped by their directories. Perfect for documentation, project overviews, and sharing codebase structure with teams.
