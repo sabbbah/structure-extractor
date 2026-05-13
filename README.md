@@ -222,17 +222,5 @@ If this tool helps you, please consider:
 - Summary statistics
 
 ---
-
 **Made with ❤️ for developers who love clean project documentation**
 ```
-
----
-
-### 📁 Save as `README.md`
-
-Save this content as `README.md` in the same directory as your Python script. You can customize:
-- GitHub repository links
-- Author name and contact
-- Additional features specific to your use case
-
-This README will make your tool look professional and help others understand how to use it!
